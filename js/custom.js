@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong> soccer-random-online.github.io</strong>';
+        el.innerHTML = '<strong> Soccer Random</strong>';
         el.style.visibility = 'visible';
     });
 });
